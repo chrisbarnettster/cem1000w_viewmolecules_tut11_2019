@@ -1,6 +1,6 @@
 
 # Wondering what the molecules in Tutorial 11 look like in 3D?
-Great let's use a simple online molecular viewers to see these molecules
+Great let's use a simple online molecular viewer to see these molecules
 
 [Molview](http://molview.org) is easy to use and allows you to build molecules or search for common molecules (which get loaded automatically)
 
